@@ -1,0 +1,14 @@
+@media (min-width: 321px) {
+    .ipod-u2 {
+        max-width: 290px;
+    }
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+#ipod-u2-screen {
+    min-height: 30vh;
+}
