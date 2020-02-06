@@ -14,8 +14,8 @@ _Please go to_  https://www.freecodecamp.org/learn/front-end-libraries/front-end
 ## Setup
 
 _Open your browser of choice and go to_
-https://ryanbenvillanueva.github.io/tribute_page/ _, or go to_
-https://codepen.io/RBSVillanueva/full/rjbWbR/ _to view it in Codepen._
+https://ryanbenvillanueva.github.io/random-quote-machine/ _, or go to_
+https://codepen.io/RBSVillanueva/full/wvavgYr _to view it in Codepen._
 
 ## Support and contact details
 
